@@ -17,3 +17,6 @@ Summary:
 - Web development skill is essentials even if you are data scientist
 - Having microarchitecture skill sill be great advantage to levle up your career in data science.
 - Deep learning skill is well-paid but it takes a lot of works to learn.
+
+Blog Post Link:
+[The Trends in Data Science](https://fahmiduldul.medium.com/the-trends-in-data-science-db48078d71bd)
